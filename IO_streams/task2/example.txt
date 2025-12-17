@@ -1,0 +1,4 @@
+Hello, World!
+This is an example text file.
+It contains multiple lines of text.
+Feel free to modify it as you like.
