@@ -1,0 +1,9 @@
+static void main(String[] args) {
+    Person person1 = new Person("Alice", 30);
+    Person person2 = new Person("Alice", 30);
+    Person person3 = new Person("Bob", 25);
+
+    System.out.println(person1.equals(person2)); // Выведет: true
+    System.out.println(person1.equals(person3)); // Выведет: false
+    System.out.println(person1.equals(null));     // Выведет: false
+}
